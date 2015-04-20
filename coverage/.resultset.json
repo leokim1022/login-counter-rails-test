@@ -88,6 +88,10 @@
         0,
         0,
         null,
+        null,
+        1,
+        1,
+        null,
         null
       ],
       "/home/doo0/login-counter-rails-test/app/controllers/application_controller.rb": [
@@ -122,6 +126,6 @@
         null
       ]
     },
-    "timestamp": 1429528031
+    "timestamp": 1429528531
   }
 }
